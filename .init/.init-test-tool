@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/product-management-api-302105-302114/product_crud_backend"
+}
